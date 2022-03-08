@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What is the sun?
+  answers:
+  - A Star
+  - A Planet
+  - A Giant
+  - The Sun
+  correctAnswerIndex: 0
