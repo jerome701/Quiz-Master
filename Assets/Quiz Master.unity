@@ -215,6 +215,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -250,6 +254,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AnswerButton (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 62e52de97b7ae44e386c271bca2d9dd8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 458b6b846afea496386a2902cd65c470, type: 3}
 --- !u!224 &396526088 stripped
@@ -354,6 +366,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -389,6 +405,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AnswerButton (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 62e52de97b7ae44e386c271bca2d9dd8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 458b6b846afea496386a2902cd65c470, type: 3}
 --- !u!224 &635247850 stripped
@@ -1386,6 +1410,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -1421,6 +1449,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AnswerButton (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 62e52de97b7ae44e386c271bca2d9dd8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 458b6b846afea496386a2902cd65c470, type: 3}
 --- !u!224 &1805885558 stripped
@@ -1606,6 +1642,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911535267415050373, guid: 458b6b846afea496386a2902cd65c470, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -1637,6 +1677,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AnswerButton
       objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499752108649042247, guid: 458b6b846afea496386a2902cd65c470, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 62e52de97b7ae44e386c271bca2d9dd8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 458b6b846afea496386a2902cd65c470, type: 3}
 --- !u!224 &66176035522690520 stripped
